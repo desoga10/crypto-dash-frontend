@@ -2,7 +2,7 @@
 .sidebar {
   height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-  url("../frontend/img/img-1.jpg");
+  url("./img/img-1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
